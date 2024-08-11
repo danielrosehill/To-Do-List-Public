@@ -1,5 +1,7 @@
 # To-Do List (Public)
 
+![Sloth working on to do list](/images/banner.webp)
+
 ## Purpose
 
 A public 'to do' list involving technical projects and things on this repository
